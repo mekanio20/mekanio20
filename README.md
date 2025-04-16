@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nuxt.js, Next.js, Typescript**
 
-- 💬 Ask me about **HTML5, CSS3, Tailwindcss, Vue.js, React.js, Nodejs,Express.js, Postgresql, Nginx, Ubuntu**
+- 💬 Ask me about **HTML5, CSS3, Tailwindcss, Vue.js, React.js, Nodejs, Express.js, Postgresql, Nginx, Ubuntu**
 
 - 📫 How to reach me **mrt.programming20@gmail.com**
 
