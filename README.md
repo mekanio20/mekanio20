@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mekanio20" alt="mekanio20" /></a> </p>
 
-- 🔭 I’m currently working on **0-100 platform**
+- 🔭 I’m currently working on **CMR project**
 
 - 🌱 I’m currently learning **Nuxt.js, Next.js, Typescript**
 
