@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CMR project**
 
-- 🌱 I’m currently learning **Nuxt.js, Next.js, Typescript**
+- 🌱 I’m currently learning **Nuxt.js, Three.js**
 
 - 💬 Ask me about **HTML5, CSS3, Tailwindcss, Vue.js, React.js, Nodejs, Express.js, Postgresql, Nginx, Ubuntu**
 
